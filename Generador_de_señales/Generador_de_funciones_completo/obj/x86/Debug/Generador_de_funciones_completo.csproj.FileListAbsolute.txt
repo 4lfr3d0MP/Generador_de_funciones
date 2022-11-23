@@ -1,0 +1,78 @@
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csprojResolveAssemblyReference.cache
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+Q:\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.Cache
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csprojResolveAssemblyReference.cache
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+Q:\aml\2012\SABATICO\Generador_de_funciones_completo\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.Cache
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csprojResolveAssemblyReference.cache
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+C:\Users\aml\Desktop\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.Cache
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csprojResolveAssemblyReference.cache
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.cache
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.CoreCompileInputs.cache
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+D:\2012\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csprojAssemblyReference.cache
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.cache
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.CoreCompileInputs.cache
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+H:\MisAplicaciones\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.AssemblyReference.cache
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.cache
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.CoreCompileInputs.cache
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+D:\Users\maria\Downloads\Generador_de_señalesOk\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.AssemblyReference.cache
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.cache
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.CoreCompileInputs.cache
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\00_proyectos\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.exe
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\bin\Debug\Generador_de_funciones_completo.pdb
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.AssemblyReference.cache
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Form1.resources
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.Properties.Resources.resources
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.GenerateResource.cache
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.csproj.CoreCompileInputs.cache
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.exe
+D:\0000_otros\PROGRAMAS C#\3.- Generador_de_señales\Generador_de_funciones_completo\obj\x86\Debug\Generador_de_funciones_completo.pdb
